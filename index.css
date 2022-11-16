@@ -1,0 +1,48 @@
+* {
+    text-decoration: none!important;
+}
+
+p , a {
+    color: #898c8e;
+}
+
+.bi {
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.bi-minecart-loaded {
+    font-size: 30px;
+    color: rgb(77, 170, 241);
+}
+.bi-tags-fill {
+    font-size: 30px;
+    color: rgb(21, 145, 40);
+}
+
+.bi-truck {
+    font-size: 30px;
+    color: rgb(183, 32, 8);
+}
+
+.bi-google {
+    color: teal;
+}
+
+a:hover {
+    color: red;
+}
+
+.lightDark{
+    background-color: #2c2e2e;
+}
+
+.slides {
+    width:270px;
+    height: 300px;
+    flex: none;
+}
+
+.horizontal-scroll {
+    overflow-x: auto;
+}
